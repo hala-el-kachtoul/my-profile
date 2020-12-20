@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(251,243,243);
+ }
+
+h1{
+	font-family: 'East Sea Dokdo', cursive;
+	size: 120px
+	text-align: center;
+	text-align: center;
+	color: rgb(174,147,160);
+}
+h2{
+font-family: 'East Sea Dokdo', cursive;
+size: 90px
+color:rgb(206,234,247);	
+}
+
+div{
+ margin: 30px;
+ background:white;                   
+ padding: 30px;                             
+ border-radius: 20px; 
+ box-shadow: rgba(0,0,0,.1);                      
+}
+
+#hala{
+    width: 300px;
+	height:300px;
+	border-radius: 50%
+}
